@@ -25,7 +25,11 @@
             <p><span class="stat-values">12m+</span><br>queries</p>
           </div>
         </div>
-        <img src="images/image-header-desktop.jpg" alt="Header image">
+        <picture>
+          <source media="(min-width: 375px)" srcset="images/image-header-mobile.jpg" alt="Header image mobile" class="image">
+          <img src="images/image-header-desktop.jpg" alt="Header image desktop" class="image">
+        </picture>
+        <!--<img src="images/image-header-desktop.jpg" alt="Header image">-->
       </div>
     </main>
   </body>
