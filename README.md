@@ -25,7 +25,8 @@ Users should be able to:
 
 ### Screenshot 
 
-
+[Mobile View](https://github.com/rameesha0126/Stats-preview-card-component/blob/master/Mobile-view.png)
+[Desktop View](https://github.com/rameesha0126/Stats-preview-card-component/blob/master/Desktop-view.png)
 
 ### Links
 
